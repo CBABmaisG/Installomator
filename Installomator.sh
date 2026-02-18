@@ -5330,6 +5330,13 @@ gotomeeting)
     downloadURL="https://link.gotomeeting.com/latest-dmg"
     expectedTeamID="GFNFVT632V"
     ;;
+gotoconnect)
+    name="GoTo"
+    type="dmg"
+    downloadURL="https://link.goto.com/download-center-download-goto-app-mac-windows"
+    appNewVersion=""
+    expectedTeamID="GFNFVT632V"
+    ;;
 gotowebinar)
     name="GoTo"
     type="dmg"
